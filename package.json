@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "description": "Agency Agents packaged as Vercel Labs Skills CLI compatible skills.",
   "scripts": {
+    "sync:upstream": "node scripts/sync-upstream-skills.mjs",
     "validate": "node scripts/validate-skills.mjs"
   },
   "license": "MIT"
