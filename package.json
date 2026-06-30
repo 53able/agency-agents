@@ -1,0 +1,10 @@
+{
+  "name": "agency-agents-skills",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Agency Agents packaged as Vercel Labs Skills CLI compatible skills.",
+  "scripts": {
+    "validate": "node scripts/validate-skills.mjs"
+  },
+  "license": "MIT"
+}
